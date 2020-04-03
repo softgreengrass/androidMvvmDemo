@@ -19,4 +19,8 @@ class MainActivity : AppCompatActivity() {
     fun createViewModel() {
         Log.d("1","fdjfjdfjfj")
     }
+    
+    fun abc() {
+        Log.d("1","chakanapbcc")
+    }
 }
